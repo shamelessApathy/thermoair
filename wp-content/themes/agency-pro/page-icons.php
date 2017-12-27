@@ -1,0 +1,7 @@
+<div style='width:100%;'>
+<div class='one-fifth first'><div class='icon-holder'><img src="http://gomarketingtest.com/slcav/wp-content/uploads/2016/05/1591043-300x300.png" alt="1591043" width="300" height="300" class="alignnone size-medium wp-image-61" /></div></div>
+<div class='one-fifth'><div class='icon-holder'><img src="http://gomarketingtest.com/slcav/wp-content/uploads/2016/05/film_clapper-512-300x300.png" alt="film_clapper-512" width="300" height="300" class="alignnone size-medium wp-image-68" /></div></div>
+<div class='one-fifth'><div class='icon-holder'><img src="http://gomarketingtest.com/slcav/wp-content/uploads/2016/05/spotlight.png" alt="spotlight" width="200" height="200" class="alignnone size-full wp-image-63" /></div></div>
+<div class='one-fifth'><div class='icon-holder'><img src="http://gomarketingtest.com/slcav/wp-content/uploads/2016/05/14878-200.png" alt="14878-200" width="200" height="200" class="alignnone size-full wp-image-69" /></div></div>
+<div class='one-fifth'><div class='icon-holder'><img src="http://gomarketingtest.com/slcav/wp-content/uploads/2016/05/presentationaid.png" alt="presentationaid" width="256" height="256" class="alignnone size-full wp-image-70" /></div></div>
+</div>
