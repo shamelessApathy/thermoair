@@ -493,3 +493,30 @@ a .demo-thumb img
   color:#333;
   margin-top:3px;
 }
+.parts-container
+{
+  width:170px;
+  height:300px;
+  margin:0 auto;
+  margin-bottom:15px;
+  border:2px solid black;
+}
+.to-contact-holder
+{
+  width:100%;
+  margin:0 auto;
+  height:250px;
+  margin-bottom:15px;
+}
+.to-contact-holder a
+{
+  color:#333;
+}
+.to-contact-holder
+{
+  text-align:center;
+}
+.to-contact-holder ul
+{
+  list-style-type: none;
+}
