@@ -1,0 +1,65 @@
+
+#wpfifc_options_form_ID h2{
+	font-size: 23px;
+    font-weight: 400;
+    padding: 9px 15px 4px 0;
+    line-height: 29px;
+}
+
+h2.nav-tab-wrapper {
+	margin:22px 0 0 0;
+}
+
+#wpfifc_options_form_ID .nav-tab-active {
+  border-bottom: 1px solid #f1f1f1 !important;
+  background: #ffffff !important;
+  color: #000 !important;
+}
+
+#wpfifc_options_tab_contents {
+	padding:22px;
+	background: #fff;
+	border:1px solid #ccc;
+	border-top:0px;
+}
+
+#wpfifc_options_tab_contents section {
+	display:none;
+}
+
+#wpfifc_options_tab_contents section:first-child {
+	display:block;
+}
+
+
+.no-js h2.nav-tab-wrapper {
+	display:none;
+}
+
+.no-js #wpfifc_options_tab_contents {
+	border-top:1px solid #ccc;
+	margin-top:22px;
+}
+
+.no-js #wpfifc_options_tab_contents section {
+	border-top: 1px dashed #aaa;
+	margin-top:22px;
+	padding-top:22px;
+}
+
+.no-js #wpfifc_options_tab_contents section:first-child {
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+
+.column-wpfifc_colour { 
+	width: 50px; 
+}
+
+.column-wpfifc_colour .color-block { 
+	display: inline-block; 
+	width: 100%; 
+	height: 28px; 
+	border: 1px solid #ddd; 
+}
